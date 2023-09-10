@@ -72,5 +72,20 @@ body {
     align-items: center;
 }
 
+/* Add custom styles as needed */
+.destination-cards .card {
+    margin-bottom: 20px;
+}
+
+.destinations{
+    padding: 200px 0;
+}
+
+.mt-4{
+    text-align: center;
+    padding-bottom: 30px;
+    color: #fff;
+}
+
 
   
