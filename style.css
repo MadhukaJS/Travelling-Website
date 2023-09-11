@@ -168,3 +168,51 @@ body {
 .banner .btn:hover {
     background-color: #0056b3;
 }
+
+
+/* Footer Styles */
+.footer {
+    background-color: #333; /* Background color for the footer */
+    color: #fff; /* Text color for the footer */
+    padding: 30px 0; /* Padding around the footer content */
+  }
+  
+  .footer h4 {
+    color: #f2c041; /* Heading color */
+  }
+  
+  .footer p {
+    font-size: 16px; /* Font size for paragraph text */
+  }
+  
+  .footer ul {
+    list-style-type: none; /* Remove bullet points from lists */
+    padding-left: 0; /* Remove left padding from lists */
+  }
+  
+  .footer li {
+    margin-bottom: 10px;
+  }
+  
+  /* Social Icons */
+  .social-icons li {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 24px;
+  }
+  
+  .social-icons a {
+    color: #f2c041; /* Social icon color */
+    text-decoration: none;
+  }
+  
+  .social-icons a:hover {
+    color: #fff; /* Social icon color on hover */
+  }
+  
+  /* Copyright Text */
+  .footer p.text-center {
+    margin-top: 20px; /* Add space above the copyright text */
+    font-size: 14px;
+  }
+  
