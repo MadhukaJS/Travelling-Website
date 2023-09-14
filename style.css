@@ -170,24 +170,24 @@ body {
 }
 
 
-/* Footer Styles */
+/* Footer */
 .footer {
-    background-color: #333; /* Background color for the footer */
-    color: #fff; /* Text color for the footer */
-    padding: 30px 0; /* Padding around the footer content */
+    background-color: #333; 
+    color: #fff; 
+    padding: 30px 0;
   }
   
   .footer h4 {
-    color: #f2c041; /* Heading color */
+    color: #f2c041;
   }
   
   .footer p {
-    font-size: 16px; /* Font size for paragraph text */
+    font-size: 16px;
   }
   
   .footer ul {
-    list-style-type: none; /* Remove bullet points from lists */
-    padding-left: 0; /* Remove left padding from lists */
+    list-style-type: none; 
+    padding-left: 0; 
   }
   
   .footer li {
@@ -202,17 +202,17 @@ body {
   }
   
   .social-icons a {
-    color: #f2c041; /* Social icon color */
+    color: #f2c041; 
     text-decoration: none;
   }
   
   .social-icons a:hover {
-    color: #fff; /* Social icon color on hover */
+    color: #fff; 
   }
   
   /* Copyright Text */
   .footer p.text-center {
-    margin-top: 20px; /* Add space above the copyright text */
+    margin-top: 20px; 
     font-size: 14px;
   }
   
